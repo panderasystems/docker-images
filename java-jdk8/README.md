@@ -2,6 +2,7 @@
 * Java: 1.8
 * Python: latest
 * aws-cli: latest
+* terraform: 0.11.3
 ---
 # Pull from Docker Hub
 `docker pull panderalabs/java-jdk8:latest`
